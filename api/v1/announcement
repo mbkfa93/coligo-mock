@@ -1,1 +1,46 @@
- 
+{
+  "announcements": {
+    "announcementsData": [
+      {
+        "id": "teacher_1555095870225",
+        "timestamp": "1555095870225",
+        "content": "Hi my heros! just want you ready to our exams and focus on remaining assesments to gain more grades, good luck my warriors! :D",
+        "announcer": {
+          "name": "Mr.Ahmed Mostafa",
+          "subject": "Math 101",
+          "imageUrl": "https://www.sheffield.ac.uk/polopoly_fs/1.334210!/image/tjd.jpg"
+        }
+      },
+      {
+        "id": "teacher_1555095876789",
+        "timestamp": "1555095876789",
+        "content": "Hello my students, I want to announce that the next quiz will be within 3 days and will cover the whole unit 2, add and subtract number, Study hard Good luck :)",
+        "announcer": {
+          "name": "Mrs.Sala Ahmed",
+          "subject": "Physics 02",
+          "imageUrl": "https://cdn1.msw.usc.edu/content/bc1f628b86b24830a10f91d2e445a976/Dorian-Traube.jpeg"
+        }
+      },
+      {
+        "id": "management_1555095883073",
+        "timestamp": "1555095883073",
+        "content": "Gooooooood morning, warriors! that get-ready-for-the-day call is heard each morning by 850 sturends at our high school in Egypt. I just want you ready to our exams and focus on remaining assesments to gain more grades, good luck my warriors",
+        "announcer": {
+          "name": "School management",
+          "subject": "Management",
+          "imageUrl": "http://www.vbinfotech.in/images/service-software/school-management/fee-registration.jpg"
+        }
+      },
+      {
+        "id": "event_1555095900854",
+        "timestamp": "1555095900854",
+        "content": "Hello Can't wait our upcoming trip on the next weekedn, The trip will be to Dreampark and the Pyramids :D to book your seat please contact your class teacher",
+        "announcer": {
+          "name": "Events Manager",
+          "subject": "Events",
+          "imageUrl": "https://thedailyq.org/wp-content/uploads/2018/02/H-Menge-Torsten-900x600.jpg"
+        }
+      }
+    ]
+  }
+}
