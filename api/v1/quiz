@@ -4,6 +4,7 @@
       {
         "id": "quiz_1555096583667",
         "timestamp": "1555096583667",
+        "title": "Unit 2 Quiz",
         "type": "quiz",
         "course": "Physics 02",
         "topic": "Unit 2, Motion and forces",
@@ -12,6 +13,7 @@
       {
         "id": "quiz_1555096695709",
         "timestamp": "1555096695709",
+        "title": "Subtraction Quiz",
         "type": "quiz",
         "course": "Math 101",
         "topic": "Addition and subtraction",
@@ -20,6 +22,7 @@
       {
         "id": "assignment_1555096695709",
         "timestamp": "1555096695709",
+        "title": "Assignment 22",
         "type": "assignment",
         "course": "Physics 02",
         "topic": "Unit2, Motion and forces",
